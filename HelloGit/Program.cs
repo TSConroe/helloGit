@@ -10,6 +10,9 @@ namespace HelloGit
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Helow Git");
+            Console.WriteLine("Firs Commit");
+
         }
     }
 }
