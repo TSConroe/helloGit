@@ -13,6 +13,10 @@ namespace HelloGit
             Console.WriteLine("Helow Git");
             Console.WriteLine("Firs Commit");
             Console.WriteLine("Second one");
+            Console.WriteLine("New commit from 17\" studio");
+            
+
+
 
         }
     }
