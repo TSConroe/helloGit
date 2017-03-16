@@ -12,7 +12,7 @@ namespace HelloGit
         {
             Console.WriteLine("Helow Git");
             Console.WriteLine("Firs Commit");
-            Console.WriteLine("add feature");
+            Console.WriteLine("Second one");
 
         }
     }
