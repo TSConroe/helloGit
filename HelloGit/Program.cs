@@ -14,7 +14,9 @@ namespace HelloGit
             Console.WriteLine("Firs Commit");
             Console.WriteLine("Second one");
             Console.WriteLine("New commit from 17\" studio");
-            
+            Console.WriteLine("Comit only in dev branch");
+
+
 
 
 
